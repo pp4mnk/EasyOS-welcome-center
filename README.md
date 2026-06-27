@@ -34,8 +34,8 @@ The project has been designed to become the central starting point for EasyOS, m
 Open a terminal and run:
 
 ```bash
-tar -xzf easyos-welcome-center-pp4mnk-v1.0-large-grid.tar.gz
-cd easyos-welcome-center-v0.9
+tar -xzf easyos-welcome-center-pp4mnk-v1.0-menu.tar.gz
+cd easyos-welcome-center-v1.0-menu
 chmod +x install.sh
 ./install.sh
 ```
