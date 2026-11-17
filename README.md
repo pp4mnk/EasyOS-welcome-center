@@ -6,7 +6,7 @@
  UPDATED VERSION 1.1
 It brings together the most useful tools, utilities and configuration scripts in a single, easy-to-use interface. Instead of searching through menus or remembering terminal commands, everything is available from one central location.
 
-Current features include:
+Current features include:  (VERSION 1.1)
 
 * 🚀 First Steps
 * 🌐 Web Browsers
