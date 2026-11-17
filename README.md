@@ -39,7 +39,7 @@ cd easyos-welcome-center-v1.0-menu
 chmod +x install.sh
 ./install.sh
 ```
-VERSOPM 1.1 Uncompress file and install pet. / right click, pet2get
+VERSION 1.1 Uncompress file and install pet. / right click, pet2get
 ---
 
 # Launching EasyOS Welcome Center
