@@ -3,7 +3,7 @@
 ## What is EasyOS Welcome Center?
 
 **EasyOS Welcome Center** is an all-in-one control panel designed to help both new and experienced EasyOS users.
-
+ UPDATED VERSION 1.1
 It brings together the most useful tools, utilities and configuration scripts in a single, easy-to-use interface. Instead of searching through menus or remembering terminal commands, everything is available from one central location.
 
 Current features include:
@@ -39,7 +39,7 @@ cd easyos-welcome-center-v1.0-menu
 chmod +x install.sh
 ./install.sh
 ```
-
+VERSOPM 1.1 Uncompress file and install pet. / right click, pet2get
 ---
 
 # Launching EasyOS Welcome Center
